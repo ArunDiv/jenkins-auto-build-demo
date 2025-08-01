@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1753986873,,"wq!"
+|2,0,1754027234,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -26,11 +26,17 @@
 
 # File marks:
 '0  10  38  ~/my_script.sh
-|4,48,10,38,1753986873,"~/my_script.sh"
-'1  10  37  ~/my_script.sh
-|4,49,10,37,1753984645,"~/my_script.sh"
+|4,48,10,38,1754027234,"~/my_script.sh"
+'1  10  38  ~/my_script.sh
+|4,49,10,38,1753986873,"~/my_script.sh"
+'2  10  37  ~/my_script.sh
+|4,50,10,37,1753984645,"~/my_script.sh"
+'3  10  37  ~/my_script.sh
+|4,51,10,37,1753984645,"~/my_script.sh"
 
 # Jumplist (newest first):
+-'  10  38  ~/my_script.sh
+|4,39,10,38,1754027234,"~/my_script.sh"
 -'  10  38  ~/my_script.sh
 |4,39,10,38,1753986873,"~/my_script.sh"
 -'  10  37  ~/my_script.sh
@@ -39,12 +45,14 @@
 |4,39,1,0,1753984618,"~/my_script.sh"
 -'  1  0  ~/my_script.sh
 |4,39,1,0,1753984618,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1753984618,"~/my_script.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/my_script.sh
-	*	1753986872	0
+	*	1754027233	0
 	"	10	38
 	^	10	39
-	.	10	38
-	+	10	38
+	.	10	39
+	+	10	39
